@@ -24,6 +24,6 @@
   ],
   "dependencies": {
     "blob-polyfill": "~1.0.20150320",
-    "FileSaver.js": "https://github.com/alferov/FileSaver.js/"
+    "FileSaver.jss": "https://github.com/jpramire/FileSaver.jss"
   }
 }
